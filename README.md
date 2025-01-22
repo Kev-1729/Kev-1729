@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer 
 ---------------------------
 
-I am a student studying Software Engineering at the Universidad Nacional Mayor de San Marcos (UNMSM), currently in my fourth year, with a concentration in Data Science.
+I am a student studying Software Engineering at the Universidad Nacional Mayor de San Marcos (UNMSM), currently in my fourth year, with a concentration in Data Science and IA.
 
 * 🌍  I'm based in Lima-Perú
 * ✉️  You can contact me at [kevin.tupac@unmsm.edu.pe](mailto:kevin.tupac@unmsm.edu.pe)
