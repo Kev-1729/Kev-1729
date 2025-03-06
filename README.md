@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 Software Engineer 
----------------------------
+--------------------------
 
 I am a student studying Software Engineering at the Universidad Nacional Mayor de San Marcos (UNMSM), currently in my fifth year, with a concentration in Data Science and IA.
 
